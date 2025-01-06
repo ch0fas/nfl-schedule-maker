@@ -1,5 +1,5 @@
 # nfl-schedule-maker
-An application for creating randomized NFL schedules with various personalization options
+An application for creating randomized NFL schedules with various personalization options, created using Python, Tkinter and ttkbootstrap
 
 # Planned Features
 <ul>

@@ -5,7 +5,7 @@ import tkinter as tk
 import ttkbootstrap as ttk
 from tkinter import messagebox
 
-#Window Object
+#Window Objects
 
 class Application(ttk.Window):
     def __init__(self):

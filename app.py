@@ -24,7 +24,7 @@ class Application(ttk.Window):
         #App Credits
         self.frame3 = Frame3(self)
 
-        #Main Window
+        #Main Window - Correction
         self.show_frame(self.frame1)
     
     def show_frame(self, frame):
